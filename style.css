@@ -321,7 +321,6 @@ footer li {
         align-items: center;
         text-align: center;
     }
-
     .section-a {
         margin-top: -330px;
     }
@@ -348,7 +347,6 @@ footer li {
         padding: 20px 0px 50px 0px;
         box-shadow: none;
         background-color: rgba(255, 255, 255, 0.9);
-
     }
     .image {
         max-width: 70%;
@@ -362,15 +360,12 @@ footer li {
         text-align: center;
         font-weight: bold;
     }
-
     h5 {
         font-size: 0.9rem;
     }
-    #laptop{
-
+    #laptop {
         width: 300px;
     }
-
     .card {
         justify-self: center;
     }
@@ -389,16 +384,13 @@ footer li {
         border: none;
         background-color: rgba(50, 156, 227, 0.04);
     }
-
     footer p {
         margin-right: 0px;
         font-size: 0.7rem;
-        
     }
     footer .copyright {
         padding-left: 30px;
     }
-
     footer a {
         font-size: 0.7rem;
     }
