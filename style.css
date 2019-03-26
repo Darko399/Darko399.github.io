@@ -333,9 +333,9 @@ footer li {
         display: grid;
         grid-template-rows: 1fr;
         grid-gap: 370px;
-        max-width: 90%;
-        margin: 0 auto;
-        padding: 30px 0px 50px 0px;
+        max-width: 100%;
+        margin: 0;
+        padding: 50px 0px 50px 0px;
         box-shadow: 6px 10px 30px #888888;
         background-color: rgba(255, 255, 255, 0.9);
     }
@@ -353,6 +353,10 @@ footer li {
     #laptop{
 
         width: 300px;
+    }
+
+    .main-wrapper {
+        box-shadow: none;
     }
 
 }
