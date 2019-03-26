@@ -357,6 +357,10 @@ footer li {
     h1 {
         text-align: center;
     }
+
+    h5 {
+        font-size: 0.9rem;
+    }
     #laptop{
 
         width: 300px;
@@ -366,7 +370,7 @@ footer li {
         justify-self: center;
     }
     .main-nav ul li a {
-        font-size: 1.4rem;
+        font-size: 1.2rem;
     }
     #plava-card2, #plava-card {
         display: none;
@@ -380,10 +384,17 @@ footer li {
         border: none;
         background-color: rgba(50, 156, 227, 0.04);
     }
+
     footer p {
         margin-right: 0px;
+        font-size: 0.7rem;
+        
     }
     footer .copyright {
         padding-left: 30px;
+    }
+
+    footer a {
+        font-size: 0.7rem;
     }
 }
