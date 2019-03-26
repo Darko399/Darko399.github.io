@@ -217,8 +217,8 @@ p {
 footer {
     margin-top: 60px;
     display: grid;
-    grid-template-columns: 3fr 1fr 1fr 1fr;
-    justify-items: left;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
     border-radius: 100px;
     border: none;
     background-color: rgba(50, 156, 227, 0.04);
