@@ -321,6 +321,10 @@ footer li {
         align-items: center;
         text-align: center;
     }
+
+    .section-a {
+        margin-top: -330px;
+    }
     .nav-wrapper {
         display: grid;
         grid-template-columns: 1fr;
@@ -341,7 +345,7 @@ footer li {
         grid-gap: 370px;
         max-width: 100%;
         margin: 0;
-        padding: 40px 0px 50px 0px;
+        padding: 20px 0px 50px 0px;
         box-shadow: none;
         background-color: rgba(255, 255, 255, 0.9);
 
@@ -371,7 +375,7 @@ footer li {
         justify-self: center;
     }
     .main-nav ul li a {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
     #plava-card2, #plava-card {
         display: none;
