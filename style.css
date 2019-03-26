@@ -362,7 +362,7 @@ footer li {
     .main-nav ul li a {
         font-size: 1.4rem;
     }
-    #plava-card2 {
+    #plava-card2, .plava-card {
         display: none;
     }
 }
