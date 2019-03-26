@@ -365,4 +365,19 @@ footer li {
     #plava-card2, #plava-card {
         display: none;
     }
+    footer {
+        margin-top: -100px;
+        display: grid;
+        grid-template-columns: 3fr 1fr 1fr 1fr;
+        justify-items: left;
+        border-radius: 100px;
+        border: none;
+        background-color: rgba(50, 156, 227, 0.04);
+    }
+    footer p {
+        margin-right: 0px;
+    }
+    footer .copyright {
+        padding-left: 30px;
+    }
 }
