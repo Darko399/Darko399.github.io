@@ -297,6 +297,12 @@ footer li {
     }
     footer {
         margin-top: -100px;
+        justify-items: center;
+        text-align: left;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+    footer .contact p {
+        margin-right: 0;
     }
     #plava-bottom {
         display: none;
@@ -368,8 +374,8 @@ footer li {
     footer {
         margin-top: -100px;
         display: grid;
-        grid-template-columns: 3fr 1fr 1fr 1fr;
-        justify-items: left;
+        grid-template-columns: 1fr 1fr 1fr;
+        justify-items: center;
         border-radius: 100px;
         border: none;
         background-color: rgba(50, 156, 227, 0.04);
