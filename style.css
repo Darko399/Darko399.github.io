@@ -5,6 +5,8 @@ body {
     overflow-x: hidden;
 }
 
+
+
 .btn {
     background-color: rgba(229, 49, 110, 1);
     border-radius: 100px;
@@ -19,7 +21,7 @@ body {
     display: grid;
     grid-template-rows: 1fr;
     grid-gap: 370px;
-    max-width: 90%;
+    max-width: 1800px;
     margin: 0 auto;
     padding: 30px 50px 50px 50px;
     box-shadow: 6px 10px 30px #888888;
