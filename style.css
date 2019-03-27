@@ -368,6 +368,7 @@ footer li {
     }
     .card {
         justify-self: center;
+        box-shadow: none;
     }
     .main-nav ul li a {
         font-size: 0.85rem;
